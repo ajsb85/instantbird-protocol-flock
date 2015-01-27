@@ -1,0 +1,1867 @@
+{
+  "collections": [
+    {
+      "width": 384,
+      "sets": [
+        {
+          "name": "Berry Brown",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/big-grin.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "big-grin",
+              "name": "Big grin"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/wink.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "wink",
+              "name": "Wink"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/surprised.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "surprised",
+              "name": "Surprised"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/sticking-tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/broken-hearted.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-hearted",
+              "name": "Broken hearted"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/i-love-you.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "i-love-you",
+              "name": "I love you"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/kisses-on-face.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "kisses-on-face",
+              "name": "Kisses on face"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/sleeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sleeping",
+              "name": "Sleeping"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/working-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "working-out",
+              "name": "Working out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/reading.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "reading",
+              "name": "Reading"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/flying.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "flying",
+              "name": "Flying"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/photographer.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "photographer",
+              "name": "Photographer"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/eating.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "eating",
+              "name": "Eating"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/teeing-off.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "teeing-off",
+              "name": "Teeing off"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/listening-to-music.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "listening-to-music",
+              "name": "Listening to music"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/bubble-gum.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "bubble-gum",
+              "name": "Bubble gum"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/sick.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sick",
+              "name": "Sick"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/drinking-coffee.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "drinking-coffee",
+              "name": "Drinking coffee"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/berry-brown/looking-sideways.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "looking-sideways",
+              "name": "Looking sideways"
+            }
+          ],
+          "promotion-index": 7,
+          "icon-url": "http://mc.flock.co/stickers/berry-brown/icon.png",
+          "promoted": true,
+          "id": "berry-brown",
+          "date-added": "2013-11-27"
+        },
+        {
+          "name": "Big Al the Pirate",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/big-grin.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "big-grin",
+              "name": "Big grin"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/surprised.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "surprised",
+              "name": "Surprised"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/crying-copiously.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-copiously",
+              "name": "Crying (Copiously)"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/sticking-tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/broken-hearted.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-hearted",
+              "name": "Broken hearted"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/lol.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "lol",
+              "name": "LOL"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/will-you-go-out-with-me.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "will-you-go-out-with-me",
+              "name": "Will you go out with me"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/kisses.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "kisses",
+              "name": "Kisses"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/pretty-please.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "pretty-please",
+              "name": "Pretty please"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/sleeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sleeping",
+              "name": "Sleeping"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/eating.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "eating",
+              "name": "Eating"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/lets-party.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "lets-party",
+              "name": "Let's party"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/ahoy.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "ahoy",
+              "name": "Ahoy"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/drunk.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "drunk",
+              "name": "Drunk"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/touche.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "touche",
+              "name": "Touche"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/big-al-the-pirate/bathing.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "bathing",
+              "name": "Bathing"
+            }
+          ],
+          "promotion-index": 5,
+          "icon-url": "http://mc.flock.co/stickers/big-al-the-pirate/icon.png",
+          "promoted": true,
+          "id": "big-al-the-pirate",
+          "date-added": "2013-11-27"
+        },
+        {
+          "name": "Bluba",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/bluba/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/surprised.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "surprised",
+              "name": "Surprised"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/sticking-tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/broken-heart.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-heart",
+              "name": "Broken heart"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/kisses.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "kisses",
+              "name": "Kisses"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/lol.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "lol",
+              "name": "LOL/ROFL"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/confused.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "confused",
+              "name": "Confused"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/super-bluba.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "super-bluba",
+              "name": "Super-bluba"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/angel-face.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angel-face",
+              "name": "Angel-face"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/stealth-ninja.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "stealth-ninja",
+              "name": "Stealth ninja"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/sleeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sleeping",
+              "name": "Sleeping"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/busy.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "busy",
+              "name": "Busy"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/drunk.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "drunk",
+              "name": "Drunk"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/thinking.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "thinking",
+              "name": "Thinking"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/peeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "peeping",
+              "name": "Peeping"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/getting-angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "getting-angry",
+              "name": "Getting angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/annoyed.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "annoyed",
+              "name": "Annoyed"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bluba/puking.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "puking",
+              "name": "Puking"
+            }
+          ],
+          "promotion-index": 6,
+          "icon-url": "http://mc.flock.co/stickers/bluba/icon.png",
+          "promoted": true,
+          "id": "bluba",
+          "date-added": "2014-01-06"
+        },
+        {
+          "name": "Bobby",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/bobby/laugh.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "laugh",
+              "name": "Laugh"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/shame-on-you.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "shame-on-you",
+              "name": "Shame on you"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/confused.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "confused",
+              "name": "Confused"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/wrath.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "wrath",
+              "name": "Wrath"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/thumbs-up.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "thumbs-up",
+              "name": "Thumbs up"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/thumbs-down.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "thumbs-down",
+              "name": "Thumbs down"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/pat-pat.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "pat-pat",
+              "name": "Pat pat"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/idea.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "idea",
+              "name": "Idea"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/chilling.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "chilling",
+              "name": "Chilling"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/pride.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "pride",
+              "name": "Pride"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/sick.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sick",
+              "name": "Sick"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/u-r-late.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "u-r-late",
+              "name": "You are late"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/victory.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "victory",
+              "name": "Victory"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/exhausted.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "exhausted",
+              "name": "Exhausted"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/heavy-eating.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "heavy-eating",
+              "name": "Heavy Eating"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bobby/please.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "please",
+              "name": "Please"
+            }
+          ],
+          "promotion-index": 1,
+          "icon-url": "http://mc.flock.co/stickers/bobby/icon.png",
+          "promoted": true,
+          "id": "bobby",
+          "date-added": "2014-12-05"
+        },
+        {
+          "name": "Bunny Bobo",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/big-grin.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "big-grin",
+              "name": "Big grin"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/wink.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "wink",
+              "name": "Wink"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/surprised.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "surprised",
+              "name": "Surprised"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/sticking-tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/broken-heart.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-heart",
+              "name": "Broken heart"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/kisses.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "kisses",
+              "name": "Kisses"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/pretty-please.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "pretty-please",
+              "name": "Pretty please"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/lol.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "lol",
+              "name": "LOL"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/flirty-with-flowers.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "flirty-with-flowers",
+              "name": "Flirty with flowers"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/crying-profusely.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-profusely",
+              "name": "Crying profusely"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/i-love-you.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "i-love-you",
+              "name": "I love you"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/rock-on.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "rock-on",
+              "name": "Rock on"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/running-scared.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "running-scared",
+              "name": "Running Scared"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/eating.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "eating",
+              "name": "Eating"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/i-am-watching-you.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "i-am-watching-you",
+              "name": "I am watching you"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/chilling-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "chilling-out",
+              "name": "Chilling out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/cowboy.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "cowboy",
+              "name": "Cowboy"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/bunny-bobo/sticking-tongue-out-as-a-retort.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out-as-a-retort",
+              "name": "Sticking tongue out as a retort"
+            }
+          ],
+          "promotion-index": 3,
+          "icon-url": "http://mc.flock.co/stickers/bunny-bobo/icon.png",
+          "promoted": true,
+          "id": "bunny-bobo",
+          "date-added": "2014-01-09"
+        },
+        {
+          "name": "Leroy the Lion",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/big-grin.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "big-grin",
+              "name": "Big grin"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/wink.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "wink",
+              "name": "Wink"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/surprised.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "surprised",
+              "name": "Surprised"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/crying-single-tear.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-single-tear",
+              "name": "Crying (Single tear)"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/crying-copiously.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-copiously",
+              "name": "Crying (Copiously)"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/confused.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "confused",
+              "name": "Confused"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/sticking-tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/blush.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "blush",
+              "name": "Blush"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/broken-hearted.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-hearted",
+              "name": "Broken hearted"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/thumbs-up.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "thumbs-up",
+              "name": "Thumbs up"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/rofl.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "rofl",
+              "name": "ROFL"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/i-love-you.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "i-love-you",
+              "name": "I love you"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/will-you-go-out-with-me.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "will-you-go-out-with-me",
+              "name": "Will you go out with me"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/kisses.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "kisses",
+              "name": "Kisses"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/talk-to-the-hand.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "talk-to-the-hand",
+              "name": "Talk to the hand"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/beer.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "beer",
+              "name": "Beer?"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/leroy-the-lion/studying-hard.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "studying-hard",
+              "name": "Studying hard"
+            }
+          ],
+          "promotion-index": 8,
+          "icon-url": "http://mc.flock.co/stickers/leroy-the-lion/icon.png",
+          "promoted": true,
+          "id": "leroy-the-lion",
+          "date-added": "2013-11-27"
+        },
+        {
+          "name": "Milo the Dog",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/big-grin.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "big-grin",
+              "name": "Big grin"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/wink.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "wink",
+              "name": "Wink"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/surprised.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "surprised",
+              "name": "Surprised"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/crying-single-tear.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-single-tear",
+              "name": "Crying (Single tear)"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/crying-copiously.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-copiously",
+              "name": "Crying (Copiously)"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/confused.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "confused",
+              "name": "Confused"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/sticking-tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/blush.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "blush",
+              "name": "Blush"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/broken-hearted.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-hearted",
+              "name": "Broken hearted"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/thumbs-up.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "thumbs-up",
+              "name": "Thumbs up"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/rofl.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "rofl",
+              "name": "ROFL"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/i-love-you.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "i-love-you",
+              "name": "I love you"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/will-you-go-out-with-me.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "will-you-go-out-with-me",
+              "name": "Will you go out with me"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/milo-the-dog/sleeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sleeping",
+              "name": "Sleeping"
+            }
+          ],
+          "promotion-index": 9,
+          "icon-url": "http://mc.flock.co/stickers/milo-the-dog/icon.png",
+          "promoted": true,
+          "id": "milo-the-dog",
+          "date-added": "2013-11-27"
+        },
+        {
+          "name": "Munster the Monster",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/big-grin.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "big-grin",
+              "name": "Big grin"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/wink.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "wink",
+              "name": "Wink"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/surprised.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "surprised",
+              "name": "Surprised"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/crying-copiously.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-copiously",
+              "name": "Crying (Copiously)"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/sticking-tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/broken-hearted.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-hearted",
+              "name": "Broken hearted"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/lol.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "lol",
+              "name": "LOL"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/will-you-go-out-with-me.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "will-you-go-out-with-me",
+              "name": "Will you go out with me"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/kisses.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "kisses",
+              "name": "Kisses"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/pretty-please.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "pretty-please",
+              "name": "Pretty please"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/sleeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sleeping",
+              "name": "Sleeping"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/working-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "working-out",
+              "name": "Working out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/feeling-hungry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "feeling-hungry",
+              "name": "Feeling hungry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/lets-party.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "lets-party",
+              "name": "Let's party"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/cartwheels.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "cartwheels",
+              "name": "Cartwheels"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/running-away.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "running-away",
+              "name": "Running away"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/munster-the-monster/evil-laugh.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "evil-laugh",
+              "name": "Evil laugh"
+            }
+          ],
+          "promotion-index": 10,
+          "icon-url": "http://mc.flock.co/stickers/munster-the-monster/icon.png",
+          "promoted": true,
+          "id": "munster-the-monster",
+          "date-added": "2013-11-27"
+        },
+        {
+          "name": "Ooga Booga",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/grin.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "grin",
+              "name": "Grin"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/rofl.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "rofl",
+              "name": "ROFL"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/teasing.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "teasing",
+              "name": "Teasing"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/confused.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "confused",
+              "name": "Confused"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/swinging.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "swinging",
+              "name": "Swinging"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/party.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "party",
+              "name": "Party"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/eating.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "eating",
+              "name": "Eating"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/flying.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "flying",
+              "name": "Flying"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/love.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "love",
+              "name": "Love"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/ssshh.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "ssshh",
+              "name": "Ssshh"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/busy.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "busy",
+              "name": "Busy"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/sorry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sorry",
+              "name": "Sorry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/ooga-booga/sleeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sleeping",
+              "name": "Sleeping"
+            }
+          ],
+          "promotion-index": 2,
+          "icon-url": "http://mc.flock.co/stickers/ooga-booga/icon.png",
+          "promoted": true,
+          "id": "ooga-booga",
+          "date-added": "2013-03-14"
+        },
+        {
+          "name": "Phish",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/phish/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/sticking-tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/broken-heart.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-heart",
+              "name": "Broken heart"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/kisses.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "kisses",
+              "name": "Kisses"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/confused.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "confused",
+              "name": "Confused"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/sleeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sleeping",
+              "name": "Sleeping"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/busy.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "busy",
+              "name": "Busy"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/drunk.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "drunk",
+              "name": "Drunk"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/eating.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "eating",
+              "name": "Eating"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/cool.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "cool",
+              "name": "Cool"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/thinking.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "thinking",
+              "name": "Thinking"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/like-a-boss.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "like-a-boss",
+              "name": "Like a boss"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/will-you-go-out-with-me.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "will-you-go-out-with-me",
+              "name": "Will you go out with me?"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/mischievous-laugh.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "mischievous-laugh",
+              "name": "Mischievous laugh"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/crying-profusely.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-profusely",
+              "name": "Crying profusely"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/wink.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "wink",
+              "name": "Wink"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/singing.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "singing",
+              "name": "Singing"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/phish/excited.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "excited",
+              "name": "Excited"
+            }
+          ],
+          "promotion-index": 11,
+          "icon-url": "http://mc.flock.co/stickers/phish/icon.png",
+          "promoted": true,
+          "id": "phish",
+          "date-added": "2014-01-06"
+        },
+        {
+          "name": "Smileys :)",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/smileys/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/big-grin.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "big-grin",
+              "name": "Big grin"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/sleeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sleeping",
+              "name": "Sleeping"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/crying-profusely.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-profusely",
+              "name": "Crying profusely"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/wink.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "wink",
+              "name": "Wink"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/surprised.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "surprised",
+              "name": "Surprised"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/i-love-you.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "i-love-you",
+              "name": "I love you"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/talk-to-the-hand.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "talk-to-the-hand",
+              "name": "Talk to the hand"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/kiss.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "kiss",
+              "name": "Kiss"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/will-you-go-out-with-me.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "will-you-go-out-with-me",
+              "name": "Will you go out with me"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/thumbs-down.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "thumbs-down",
+              "name": "Thumbs down"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/thumbs-up.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "thumbs-up",
+              "name": "Thumbs up"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/tongue-tied.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "tongue-tied",
+              "name": "Tongue tied"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/evil.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "evil",
+              "name": "Evil"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/angel.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angel",
+              "name": "Angel"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/blush.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "blush",
+              "name": "Blush"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/yawn.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "yawn",
+              "name": "Yawn"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/bored.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "bored",
+              "name": "Bored"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/crying-single-tear.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-single-tear",
+              "name": "Crying (single tear)"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/lol.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "lol",
+              "name": "LOL"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/tears-of-happiness.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "tears-of-happiness",
+              "name": "Tears of happiness"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/smirk.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smirk",
+              "name": "Smirk"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/confused.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "confused",
+              "name": "Confused"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/high-five.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "high-five",
+              "name": "High five"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/good-morning.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "good-morning",
+              "name": "Good morning"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/irritation.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "irritation",
+              "name": "Irritation"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/broken-hearted.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-hearted",
+              "name": "Broken hearted"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/disgust.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "disgust",
+              "name": "Disgust"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/applaud.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "applaud",
+              "name": "Applaud"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/hug.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "hug",
+              "name": "Hug"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/sweetheart.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sweetheart",
+              "name": "You are my sweetheart"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/good-night.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "good-night",
+              "name": "Good night"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/drunk.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "drunk",
+              "name": "Drunk"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/smileys/zipped-shut.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "zipped-shut",
+              "name": "Lips zipped shut"
+            }
+          ],
+          "promotion-index": 0,
+          "icon-url": "http://mc.flock.co/stickers/smileys/icon.png",
+          "promoted": true,
+          "id": "smileys",
+          "date-added": "2013-11-27"
+        },
+        {
+          "name": "Vampire Little",
+          "items": [
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/smile.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "smile",
+              "name": "Smile"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/big-grin.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "big-grin",
+              "name": "Big grin"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/sad.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sad",
+              "name": "Sad"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/wink.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "wink",
+              "name": "Wink"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/surprised.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "surprised",
+              "name": "Surprised"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/sticking-tongue-out.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sticking-tongue-out",
+              "name": "Sticking tongue out"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/angry.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "angry",
+              "name": "Angry"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/broken-heart.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "broken-heart",
+              "name": "Broken heart"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/kisses.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "kisses",
+              "name": "Kisses"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/pretty-please.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "pretty-please",
+              "name": "Pretty please"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/lol.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "lol",
+              "name": "LOL/ROFL"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/will-you-go-out-with-me.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "will-you-go-out-with-me",
+              "name": "Will you go out with me?"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/crying-profusely.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "crying-profusely",
+              "name": "Crying profusely"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/sleeping.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sleeping",
+              "name": "Sleeping"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/hi.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "hi",
+              "name": "Hi"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/sick.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "sick",
+              "name": "Sick"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/good-morning.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "good-morning",
+              "name": "Good Morning"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/drunk.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "drunk",
+              "name": "Drunk"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/really.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "really",
+              "name": "Really?"
+            },
+            {
+              "source": "http://mc.flock.co/stickers/vampire-little/vacationing.png",
+              "tags": "",
+              "type": "image/png",
+              "id": "vacationing",
+              "name": "Vacationing"
+            }
+          ],
+          "promotion-index": 4,
+          "icon-url": "http://mc.flock.co/stickers/vampire-little/icon.png",
+          "promoted": true,
+          "id": "vampire-little",
+          "date-added": "2014-01-06"
+        }
+      ],
+      "type": "stickers",
+      "height": 384
+    }
+  ]
+}
